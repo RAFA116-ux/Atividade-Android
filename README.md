@@ -1,3 +1,6 @@
+
+ALUNOS: FÁBIO PEREIRA; NICOLAS ROCHA; RAFAEL PACÍFICO E WALTER NETO
+
 📱 Proffy Mobile
 
 Aplicativo mobile do projeto Proffy, uma plataforma voltada para a conexão entre professores e estudantes, facilitando o acesso a aulas online e o aprendizado remoto.
